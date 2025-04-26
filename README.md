@@ -54,7 +54,7 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-link](https://www.linkedin.com/in/shubham-kumar-diff/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/shubham-kumar-diff/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkumar_23me255@dtu.ac.in)
 
 ---
