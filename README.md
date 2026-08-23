@@ -2,123 +2,90 @@
   <img src="./assets/analyst-console.svg" alt="Animated analyst console: collect messy inputs, find the signal, and ship something useful" width="100%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nothing0g&label=profile+views&color=61afef&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Nothing0g?label=followers&style=flat&color=98c379" alt="GitHub followers" />
-  <a href="https://www.linkedin.com/in/shubham-kumar-diff/"><img src="https://img.shields.io/badge/LinkedIn-61afef?style=flat&logo=linkedin&logoColor=282c34" alt="LinkedIn" /></a>
-  <a href="mailto:shubham1sure@gmail.com"><img src="https://img.shields.io/badge/Email-e5c07b?style=flat&logo=gmail&logoColor=282c34" alt="Email" /></a>
-</div>
-
-<h1 align="center">Shubham Kumar · Nothing0g</h1>
+<br />
 
 <p align="center">
-  <strong>Vibe coder. Data analyst. Builder of things that earn their existence.</strong><br/>
-  I turn messy inputs into useful decisions, practical tools, and shipped work.
+  <a href="https://www.linkedin.com/in/shubham-kumar-diff/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://nothing0g.github.io/analyst/">Analyst portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:shubham1sure@gmail.com">Email</a>
 </p>
 
-<div align="center">
+# Shubham Kumar
 
-`vibe coding` + `analytical rigor` + `mechanical precision` → **impact**
+### I make useful things from messy inputs.
 
-</div>
+I am an engineer moving into **data and business analysis**. I use data, product thinking, and a bit of vibe coding to turn unclear problems into tools and decisions that are actually useful.
 
-> I vibe-code, but I do not ship AI slop. I build good, impactful things instead of noise, ad farms, or features looking for a problem.
+> **Vibe coding is my starting point. Standards are my filter.**
+>
+> I am not here to produce AI slop, ad farms, or features looking for a problem. I want to make good things that earn their existence.
 
-## `whoami`
+<img src="./assets/signal-line.svg" alt="Animated impact signal divider" width="100%" />
 
-I am an engineer moving deeper into data and business analysis. My workflow is simple: get curious, interrogate the data, find the signal, and make the result useful to someone other than myself.
+## Selected work
 
-Currently, I am building analyst-track projects through a CrackNonTech fellowship. Previously, I worked with Engineers India Ltd, DRDO-SSPL, and NTPC Dadri. I am open to **Data Analyst** and **Business Analyst** opportunities where clear thinking matters as much as clean execution.
+### 01&nbsp;&nbsp;·&nbsp;&nbsp;HR attrition, treated as a decision problem
 
-## `case_files/`
+Overtime employees churn at **3×** the base rate — **31%** versus **10%**. I chose Logistic Regression over Random Forest for **56% recall** on at-risk employees: the metric that mattered, not the one that looked best.
+
+`Python` &nbsp; `scikit-learn` &nbsp; [Read the case →](https://github.com/Nothing0g/hr_employee_attrition_analysis)
+
+---
+
+### 02&nbsp;&nbsp;·&nbsp;&nbsp;Uber demand, treated as a reliability problem
+
+Demand swings **9×** by hour, yet a flat **25% failure rate** holds across every hour. The answer is not only more supply at peak time; it is fixing the system underneath.
+
+`Python` &nbsp; `pandas` &nbsp; [Read the case →](https://github.com/Nothing0g/Uber_ride_demand_analysis)
+
+---
+
+### 03&nbsp;&nbsp;·&nbsp;&nbsp;Loan approval, treated as a clarity problem
+
+A classification pipeline for surfacing approval risk before decisioning, with the analysis kept readable enough to support a real conversation beyond the notebook.
+
+`Python` &nbsp; `Classification` &nbsp; [Read the case →](https://github.com/Nothing0g/loan-approval-analysis)
+
+---
+
+### 04&nbsp;&nbsp;·&nbsp;&nbsp;CultFit, treated as a behavior problem
+
+I surveyed **200 students**, identified lack of motivation as the core dropout driver, and built an MVP around one lever: competition. The work was recognized at Dell Aspire.
+
+`Thunkable` &nbsp; `Product discovery` &nbsp; [Read the case →](https://github.com/Nothing0g/My_python.projects)
+
+<img src="./assets/signal-line.svg" alt="Animated impact signal divider" width="100%" />
+
+## How I work
 
 <table>
 <tr>
-<th align="left">case</th>
-<th align="left">finding</th>
-<th align="left">tools</th>
-</tr>
-<tr>
-<td><strong>CF-001<br/>HR Attrition</strong><br/><sub>decision intelligence</sub></td>
-<td>Overtime employees churn at <code>3×</code> the base rate — <code>31%</code> vs <code>10%</code>. Chose Logistic Regression over Random Forest for <code>56%</code> recall on at-risk employees: the metric that mattered, not the one that looked best.</td>
-<td><code>Python</code><br/><code>scikit-learn</code><br/><a href="https://github.com/Nothing0g/hr_employee_attrition_analysis">open case →</a></td>
-</tr>
-<tr>
-<td><strong>CF-002<br/>Uber Demand</strong><br/><sub>operations analytics</sub></td>
-<td>Demand swings <code>9×</code> by hour, yet a flat <code>25%</code> failure rate holds across every hour. The fix is not just peak-hour supply; it is structural reliability.</td>
-<td><code>Python</code><br/><code>pandas</code><br/><a href="https://github.com/Nothing0g/Uber_ride_demand_analysis">open case →</a></td>
-</tr>
-<tr>
-<td><strong>CF-003<br/>Loan Approval</strong><br/><sub>risk classification</sub></td>
-<td>A classification pipeline designed to surface approval risk before decisioning, with the analysis kept readable enough to support an actual conversation.</td>
-<td><code>Python</code><br/><a href="https://github.com/Nothing0g/loan-approval-analysis">open case →</a></td>
-</tr>
-<tr>
-<td><strong>CF-004<br/>CultFit Behavior</strong><br/><sub>product discovery</sub></td>
-<td>Surveyed <code>200</code> students, isolated lack of motivation as the core dropout driver, and built an MVP around one lever: competition. Recognized at Dell Aspire.</td>
-<td><code>Thunkable</code><br/><a href="https://github.com/Nothing0g/My_python.projects">open case →</a></td>
+<td width="33%" valign="top">
+<strong>Make it useful.</strong><br /><br />
+A project should help someone decide, build, understand, or move faster. Otherwise it is decoration.
+</td>
+<td width="33%" valign="top">
+<strong>Make it clear.</strong><br /><br />
+A model is not finished when it runs. It is finished when the result can survive outside the notebook.
+</td>
+<td width="33%" valign="top">
+<strong>Make it real.</strong><br /><br />
+Small, thoughtful tools beat ten disposable demos. I care about the last mile between insight and impact.
+</td>
 </tr>
 </table>
 
-## `stack/`
+## Tools I reach for
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,figma,vscode&theme=dark" alt="Python, MySQL, Git, GitHub, Figma, and Visual Studio Code" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-282c34?style=flat&logo=pandas&logoColor=E06C75" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-282c34?style=flat&logo=scikitlearn&logoColor=E5C07B" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Power_BI-282c34?style=flat&logo=powerbi&logoColor=61AFEF" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-282c34?style=flat&logo=microsoftexcel&logoColor=98C379" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/AutoCAD-282c34?style=flat&logo=autodesk&logoColor=C678DD" alt="AutoCAD" />
-  <img src="https://img.shields.io/badge/ANSYS-282c34?style=flat&logo=ansys&logoColor=C678DD" alt="ANSYS" />
-  <img src="https://img.shields.io/badge/SolidWorks-282c34?style=flat&logo=dassaultsystemes&logoColor=C678DD" alt="SolidWorks" />
-</p>
+`pandas` &nbsp; `scikit-learn` &nbsp; `Power BI` &nbsp; `Excel` &nbsp; `AutoCAD` &nbsp; `ANSYS` &nbsp; `SolidWorks`
 
-| Layer | What I use it for |
-|---|---|
-| **Query** | SQL and Python for asking better questions of imperfect data. |
-| **Model** | pandas and scikit-learn for analysis, classification, and decision support. |
-| **Explain** | Power BI, Excel, and clear writing for turning findings into action. |
-| **Build** | GitHub, Figma, VS Code, and a healthy amount of vibe coding. |
+## Currently
 
-## `operating_principles/`
-
-| Principle | Translation |
-|---|---|
-| **Useful over impressive** | If it does not help someone decide, build, or understand, it probably does not need to ship. |
-| **Evidence over vibes** | Vibe coding is the starting energy; validation is the finishing discipline. |
-| **Small surface, real impact** | I would rather make one thoughtful tool than ten disposable demos. |
-| **Explain the why** | A model is not finished until the result can survive outside the notebook. |
-
-## `telemetry/`
-
-<p align="center">
-  <img src="./metrics.svg" alt="Automatically updated GitHub metrics showing activity, community, repositories, and language usage" width="100%" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nothing0g&show_icons=true&theme=onedark&hide_border=true&bg_color=00000000&title_color=61afef&icon_color=98c379&text_color=abb2bf" alt="GitHub contribution statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nothing0g&layout=compact&theme=onedark&hide_border=true&bg_color=00000000&title_color=61afef&text_color=abb2bf" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nothing0g&theme=tokyonight&hide_border=true&background=00000000&ring=61AFEF&fire=E06C75&currStreakLabel=98C379" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nothing0g&theme=react-dark&hide_border=true&bg_color=00000000&color=61afef&line=98c379&point=e06c75" alt="GitHub activity graph" width="100%" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nothing0g/Nothing0g/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Nothing0g/Nothing0g/output/github-snake.svg" alt="Animated contribution snake" width="100%" />
-</picture>
-
-## `credentials/`
+Building analyst-track projects through a CrackNonTech fellowship. Previously: **Engineers India Ltd · DRDO-SSPL · NTPC Dadri**. Open to **Data Analyst** and **Business Analyst** roles where clear thinking matters as much as clean execution.
 
 <p>
   <img src="https://img.shields.io/badge/Dell_Aspire_Scholar_'23-282c34?style=flat&color=61afef" alt="Dell Aspire Scholar 2023" />
@@ -126,15 +93,10 @@ Currently, I am building analyst-track projects through a CrackNonTech fellowshi
   <img src="https://img.shields.io/badge/EIL_Internship_—_Excellent-282c34?style=flat&color=e5c07b" alt="Engineers India Limited internship rated excellent" />
 </p>
 
-## `connect/`
+## Let’s build something that matters
 
-If you have a messy problem, an interesting dataset, or a useful idea that needs shipping, reach out. I am always more interested in **what can be made better** than in adding another empty feature to the internet.
+Have a messy problem, an interesting dataset, or a useful idea that needs shipping? **[Let’s talk.](mailto:shubham1sure@gmail.com)**
 
-<p>
-  <a href="https://www.linkedin.com/in/shubham-kumar-diff/">LinkedIn</a> ·
-  <a href="mailto:shubham1sure@gmail.com">Email</a> ·
-  <a href="https://nothing0g.github.io">Portfolio</a> ·
-  <a href="https://nothing0g.github.io/analyst/">Analyst portfolio</a>
+<p align="center">
+  <sub><code>case_status: investigating</code>&nbsp;&nbsp;·&nbsp;&nbsp;built with curiosity, evidence, and a suspicious amount of coffee.</sub>
 </p>
-
-<sub><code>case_status: investigating</code> · built with curiosity, evidence, and a suspicious amount of coffee.</sub>
