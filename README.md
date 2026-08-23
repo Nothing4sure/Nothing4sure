@@ -22,37 +22,64 @@ I am an engineer moving into **data and business analysis**. I use data, product
 
 <img src="./assets/signal-line.svg" alt="Animated impact signal divider" width="100%" />
 
-## Selected work
+## Selected work / `CASE_FILES`
 
-### 01&nbsp;&nbsp;·&nbsp;&nbsp;HR attrition, treated as a decision problem
+Each case below is a live module. **Hover the linked card for the native GitHub link state, click the card to open the repository, or expand `inspect case` to read the finding without leaving this page.** The animation is not decoration: the pulse means the case is active, the bar shows the state of the investigation, and the signal line points toward the outcome.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Nothing0g/hr_employee_attrition_analysis" title="Open CF-001 HR Attrition repository">
+<img src="./assets/case-001.svg" alt="CF-001 HR Attrition: overtime churns at three times the base rate; 56 percent recall" width="100%" />
+</a>
+<details>
+<summary>inspect case →</summary>
 
 Overtime employees churn at **3×** the base rate — **31%** versus **10%**. I chose Logistic Regression over Random Forest for **56% recall** on at-risk employees: the metric that mattered, not the one that looked best.
 
-`Python` &nbsp; `scikit-learn` &nbsp; [Read the case →](https://github.com/Nothing0g/hr_employee_attrition_analysis)
-
----
-
-### 02&nbsp;&nbsp;·&nbsp;&nbsp;Uber demand, treated as a reliability problem
+[open repository →](https://github.com/Nothing0g/hr_employee_attrition_analysis)
+</details>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Nothing0g/Uber_ride_demand_analysis" title="Open CF-002 Uber Demand repository">
+<img src="./assets/case-002.svg" alt="CF-002 Uber Demand: demand swings nine times by hour while failure stays at 25 percent" width="100%" />
+</a>
+<details>
+<summary>inspect case →</summary>
 
 Demand swings **9×** by hour, yet a flat **25% failure rate** holds across every hour. The answer is not only more supply at peak time; it is fixing the system underneath.
 
-`Python` &nbsp; `pandas` &nbsp; [Read the case →](https://github.com/Nothing0g/Uber_ride_demand_analysis)
-
----
-
-### 03&nbsp;&nbsp;·&nbsp;&nbsp;Loan approval, treated as a clarity problem
+[open repository →](https://github.com/Nothing0g/Uber_ride_demand_analysis)
+</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Nothing0g/loan-approval-analysis" title="Open CF-003 Loan Approval repository">
+<img src="./assets/case-003.svg" alt="CF-003 Loan Approval: a classification pipeline surfaces approval risk before decisioning" width="100%" />
+</a>
+<details>
+<summary>inspect case →</summary>
 
 A classification pipeline for surfacing approval risk before decisioning, with the analysis kept readable enough to support a real conversation beyond the notebook.
 
-`Python` &nbsp; `Classification` &nbsp; [Read the case →](https://github.com/Nothing0g/loan-approval-analysis)
-
----
-
-### 04&nbsp;&nbsp;·&nbsp;&nbsp;CultFit, treated as a behavior problem
+[open repository →](https://github.com/Nothing0g/loan-approval-analysis)
+</details>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Nothing0g/My_python.projects" title="Open CF-004 CultFit repository">
+<img src="./assets/case-004.svg" alt="CF-004 CultFit: surveyed 200 students and built a competition-based MVP" width="100%" />
+</a>
+<details>
+<summary>inspect case →</summary>
 
 I surveyed **200 students**, identified lack of motivation as the core dropout driver, and built an MVP around one lever: competition. The work was recognized at Dell Aspire.
 
-`Thunkable` &nbsp; `Product discovery` &nbsp; [Read the case →](https://github.com/Nothing0g/My_python.projects)
+[open repository →](https://github.com/Nothing0g/My_python.projects)
+</details>
+</td>
+</tr>
+</table>
 
 <img src="./assets/signal-line.svg" alt="Animated impact signal divider" width="100%" />
 

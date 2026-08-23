@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" role="img" aria-labelledby="title desc">
+<title id="title">Case 003 loan approval</title><desc id="desc">Animated case card: a classification pipeline surfaces approval risk before decisioning.</desc>
+<defs><linearGradient id="edge" x1="0" x2="1"><stop stop-color="#61afef"/><stop offset="1" stop-color="#e5c07b"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="2" y="2" width="556" height="186" rx="16" fill="#0a101c" stroke="#2b3954" stroke-width="2"/><rect x="3" y="3" width="554" height="4" rx="2" fill="url(#edge)"/>
+<circle cx="30" cy="32" r="6" fill="#98c379" filter="url(#glow)"><animate attributeName="r" values="4;9;4" dur="1.8s" begin=".6s" repeatCount="indefinite"/></circle>
+<text x="48" y="37" fill="#61afef" font-family="ui-monospace,monospace" font-size="13">CF-003 / CASE OPEN</text>
+<text x="528" y="37" text-anchor="end" fill="#abb2bf" font-family="ui-monospace,monospace" font-size="12">risk classification</text>
+<text x="28" y="78" fill="#f1f5fb" font-family="ui-sans-serif, sans-serif" font-size="24" font-weight="700">LOAN APPROVAL</text>
+<text x="28" y="105" fill="#abb2bf" font-family="ui-monospace,monospace" font-size="13">surface approval risk</text><text x="188" y="105" fill="#e5c07b" font-family="ui-monospace,monospace" font-size="13">before decisioning</text>
+<text x="28" y="135" fill="#98c379" font-family="ui-monospace,monospace" font-size="13">MODEL / EXPLAINABLE</text>
+<rect x="28" y="148" width="500" height="5" rx="2" fill="#202d43"/><rect x="28" y="148" width="250" height="5" rx="2" fill="#e5c07b"><animate attributeName="width" values="200;320;250" dur="3.9s" repeatCount="indefinite"/></rect>
+<text x="528" y="176" text-anchor="end" fill="#61afef" font-family="ui-monospace,monospace" font-size="12">open case →</text>
+<rect x="10" y="10" width="540" height="170" rx="12" fill="none" stroke="#e5c07b" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="4s" begin=".8s" repeatCount="indefinite"/></rect>
+</svg>
