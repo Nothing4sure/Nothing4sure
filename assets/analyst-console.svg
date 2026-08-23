@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Nothing0g analyst console</title>
+  <desc id="desc">An animated terminal dashboard showing a data investigation moving from noisy input to useful output.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#61afef"/>
+      <stop offset="0.55" stop-color="#98c379"/>
+      <stop offset="1" stop-color="#e5c07b"/>
+    </linearGradient>
+    <filter id="glow-green" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-blue" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#2b3954" stroke-width="1" opacity=".28"/>
+    </pattern>
+    <clipPath id="screen"><rect x="32" y="30" width="1136" height="280" rx="16"/></clipPath>
+  </defs>
+
+  <rect x="5" y="5" width="1190" height="330" rx="22" fill="#060a13" stroke="url(#edge)" stroke-width="3"/>
+  <rect x="18" y="18" width="1164" height="304" rx="18" fill="url(#bg)"/>
+  <rect x="32" y="30" width="1136" height="280" rx="16" fill="url(#grid)"/>
+
+  <g clip-path="url(#screen)">
+    <rect x="32" y="30" width="1136" height="42" fill="#151e32"/>
+    <circle cx="58" cy="51" r="6" fill="#e06c75"/>
+    <circle cx="80" cy="51" r="6" fill="#e5c07b"/>
+    <circle cx="102" cy="51" r="6" fill="#98c379"/>
+    <text x="132" y="56" fill="#abb2bf" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">nothing0g / analyst-os / case-file-001</text>
+
+    <text x="62" y="108" fill="#98c379" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">$ boot impact_engine --mode=curious</text>
+    <text x="62" y="140" fill="#61afef" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">[01]</text>
+    <text x="112" y="140" fill="#abb2bf" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">collect messy inputs</text>
+    <text x="62" y="168" fill="#61afef" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">[02]</text>
+    <text x="112" y="168" fill="#abb2bf" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">find the signal</text>
+    <text x="62" y="196" fill="#61afef" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">[03]</text>
+    <text x="112" y="196" fill="#abb2bf" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">ship something useful</text>
+    <text x="62" y="244" fill="#e5c07b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">STATUS:</text>
+    <text x="148" y="244" fill="#98c379" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" filter="url(#glow-green)">vibe-coding with standards</text>
+    <text x="62" y="276" fill="#abb2bf" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">no AI slop  ·  no ad farms  ·  high-impact builds only</text>
+    <rect x="62" y="294" width="11" height="20" rx="2" fill="#98c379" filter="url(#glow-green)">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+
+    <g transform="translate(705 104)">
+      <rect x="0" y="0" width="390" height="145" rx="12" fill="#0a101d" stroke="#2b3954"/>
+      <text x="22" y="29" fill="#61afef" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">SIGNAL MONITOR</text>
+      <path d="M25 108 C55 108 55 82 83 82 S110 117 138 117 S166 48 193 48 S224 91 251 91 S282 68 310 68 S339 98 365 98" fill="none" stroke="#98c379" stroke-width="3" filter="url(#glow-green)">
+        <animate attributeName="stroke-dasharray" values="0 1000;1000 0" dur="3.8s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="365" cy="98" r="5" fill="#e5c07b" filter="url(#glow-blue)">
+        <animate attributeName="r" values="4;8;4" dur="1.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.4;1" dur="1.5s" repeatCount="indefinite"/>
+      </circle>
+      <text x="25" y="132" fill="#abb2bf" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">noise → evidence → decision</text>
+    </g>
+
+    <rect x="32" y="28" width="1136" height="3" fill="#61afef" opacity=".25">
+      <animate attributeName="y" values="30;310;30" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
