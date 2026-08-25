@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="assets/mascot/header-banner.png" width="100%" alt="Nothing0g deep-red mascot header" />
+  <img src="assets/mascot/header-signal.gif" width="100%" alt="Animated deep-red mascot header with a slow lab signal sweep" />
   <h2><code>WELCOME TO THE LAB</code></h2>
   <p><strong>Turning messy inputs into useful work.</strong></p>
+  <img src="assets/mascot/motion-rail.gif" width="94%" alt="Slowly animated lab workflow: observe, analyze, ship" />
 </div>
 
 <br />
@@ -9,7 +10,7 @@
 <table>
   <tr>
     <td width="31%" align="center" valign="middle">
-      <img src="assets/mascot/profile-circle.png" width="210" alt="Nothing0g character portrait" />
+      <img src="assets/mascot/profile-pulse.gif" width="230" alt="Nothing0g character portrait with a subtle rotating activity halo" />
     </td>
     <td width="69%" valign="middle">
       <h1>Shubham Kumar <sub><code>Nothing0g</code></sub></h1>
