@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="260" viewBox="0 0 440 260" role="img" aria-labelledby="title desc">
+  <title id="title">Mascot coding</title><desc id="desc">Flat-vector brown-skinned, black-haired mascot coding on a laptop.</desc>
+  <g stroke="#4A271F" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M50 225C61 175 109 153 173 164C211 171 238 192 248 225Z" fill="#080708" stroke-width="8"/>
+    <path d="M135 152V183C148 197 172 198 185 183V150Z" fill="#A96749" stroke-width="7"/>
+    <path d="M91 84C93 45 121 22 162 22C210 22 238 52 234 111C231 148 206 173 164 179C119 176 91 150 89 107Z" fill="#A96749" stroke-width="8"/>
+    <path d="M84 112C57 104 63 77 82 70C83 49 106 36 123 41C132 17 165 11 185 29C202 17 227 27 231 48C253 53 262 77 243 94C253 113 239 132 218 129C211 150 193 158 179 146C165 162 141 159 130 143C112 156 93 148 91 130C82 130 77 121 84 112Z" fill="#070708" stroke-width="8"/>
+    <path d="M96 88C111 91 125 79 137 69C139 103 151 110 167 112C176 91 187 75 199 66C210 83 224 89 239 90C239 113 232 124 218 130C210 150 193 157 179 146C165 161 141 158 130 143C112 157 93 149 91 130C80 130 77 120 84 111Z" fill="#070708" stroke="none"/>
+    <path d="M113 119C125 114 138 114 148 120" fill="none" stroke-width="6"/>
+    <path d="M177 120C189 115 201 115 209 121" fill="none" stroke-width="6"/>
+    <path d="M108 132C111 122 132 122 136 131V148C129 155 114 154 109 149Z" fill="#F8ECDD" stroke-width="5"/>
+    <path d="M120 130C131 130 133 134 133 148C129 154 119 153 116 149V137Z" fill="#070708" stroke="none"/>
+    <path d="M176 132C179 123 198 123 203 132V148C197 155 183 154 177 149Z" fill="#F8ECDD" stroke-width="5"/>
+    <path d="M188 130C199 131 200 136 199 149C194 154 185 153 183 149V137Z" fill="#070708" stroke="none"/>
+    <path d="M148 159C158 164 171 164 180 158" fill="none" stroke-width="5"/>
+    <path d="M169 191C200 188 218 196 231 213" fill="none" stroke="#A96749" stroke-width="16"/>
+    <path d="M95 195C119 188 142 191 161 209" fill="none" stroke="#A96749" stroke-width="16"/>
+    <path d="M210 173H385L403 230H193Z" fill="#171113" stroke-width="7"/>
+    <path d="M217 180H373L385 218H207Z" fill="#2B1A1B" stroke="none"/>
+    <path d="M230 191H267M282 191H319M334 191H359" fill="none" stroke="#E56D3D" stroke-width="5"/>
+    <path d="M235 205H254M267 205H292M307 205H339" fill="none" stroke="#F8ECDD" stroke-width="4"/>
+    <path d="M190 231H404" fill="none" stroke="#E56D3D" stroke-width="7"/>
+    <path d="M81 55L97 42M63 57L43 49M247 58L269 48" fill="none" stroke="#E56D3D" stroke-width="5"/>
+  </g>
+</svg>

@@ -1,129 +1,138 @@
 <div align="center">
-  <img src="./assets/analyst-console.svg" alt="Animated analyst console: collect messy inputs, find the signal, and ship something useful" width="100%" />
+  <img src="assets/mascot/header-banner.svg" width="100%" alt="Nothing0g deep-red mascot header" />
+  <h2><code>WELCOME TO THE LAB</code></h2>
+  <p><strong>Turning messy inputs into useful work.</strong></p>
 </div>
 
 <br />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kumar-diff/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://nothing0g.github.io/analyst/">Analyst portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:shubham1sure@gmail.com">Email</a>
-</p>
-
-# Shubham Kumar
-
-### I make useful things from messy inputs.
-
-I am an engineer moving into **data and business analysis**. I use data, product thinking, and a bit of vibe coding to turn unclear problems into tools and decisions that are actually useful.
-
-> **Vibe coding is my starting point. Standards are my filter.**
->
-> I am not here to produce AI slop, ad farms, or features looking for a problem. I want to make good things that earn their existence.
-
-<img src="./assets/signal-line.svg" alt="Animated impact signal divider" width="100%" />
-
-## Selected work / `CASE_FILES`
-
-Each case below is a live module. **Hover the linked card for the native GitHub link state, click the card to open the repository, or expand `inspect case` to read the finding without leaving this page.** The animation is not decoration: the pulse means the case is active, the bar shows the state of the investigation, and the signal line points toward the outcome.
-
 <table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Nothing0g/hr_employee_attrition_analysis" title="Open CF-001 HR Attrition repository">
-<img src="./assets/case-001.svg" alt="CF-001 HR Attrition: overtime churns at three times the base rate; 56 percent recall" width="100%" />
-</a>
-<details>
-<summary>inspect case →</summary>
-
-Overtime employees churn at **3×** the base rate — **31%** versus **10%**. I chose Logistic Regression over Random Forest for **56% recall** on at-risk employees: the metric that mattered, not the one that looked best.
-
-[open repository →](https://github.com/Nothing0g/hr_employee_attrition_analysis)
-</details>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Nothing0g/Uber_ride_demand_analysis" title="Open CF-002 Uber Demand repository">
-<img src="./assets/case-002.svg" alt="CF-002 Uber Demand: demand swings nine times by hour while failure stays at 25 percent" width="100%" />
-</a>
-<details>
-<summary>inspect case →</summary>
-
-Demand swings **9×** by hour, yet a flat **25% failure rate** holds across every hour. The answer is not only more supply at peak time; it is fixing the system underneath.
-
-[open repository →](https://github.com/Nothing0g/Uber_ride_demand_analysis)
-</details>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Nothing0g/loan-approval-analysis" title="Open CF-003 Loan Approval repository">
-<img src="./assets/case-003.svg" alt="CF-003 Loan Approval: a classification pipeline surfaces approval risk before decisioning" width="100%" />
-</a>
-<details>
-<summary>inspect case →</summary>
-
-A classification pipeline for surfacing approval risk before decisioning, with the analysis kept readable enough to support a real conversation beyond the notebook.
-
-[open repository →](https://github.com/Nothing0g/loan-approval-analysis)
-</details>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Nothing0g/My_python.projects" title="Open CF-004 CultFit repository">
-<img src="./assets/case-004.svg" alt="CF-004 CultFit: surveyed 200 students and built a competition-based MVP" width="100%" />
-</a>
-<details>
-<summary>inspect case →</summary>
-
-I surveyed **200 students**, identified lack of motivation as the core dropout driver, and built an MVP around one lever: competition. The work was recognized at Dell Aspire.
-
-[open repository →](https://github.com/Nothing0g/My_python.projects)
-</details>
-</td>
-</tr>
+  <tr>
+    <td width="31%" align="center" valign="middle">
+      <img src="assets/mascot/profile-ring.svg" width="210" alt="Nothing0g character portrait" />
+    </td>
+    <td width="69%" valign="middle">
+      <h1>Shubham Kumar <sub><code>Nothing0g</code></sub></h1>
+      <p><strong>Engineer → data &amp; business analysis</strong></p>
+      <p>I turn messy inputs into useful tools, clear analysis, and decisions that can survive outside the notebook.</p>
+      <p>
+        <a href="https://www.linkedin.com/in/shubham-kumar-diff/"><img src="https://img.shields.io/badge/LinkedIn-120B0B?style=for-the-badge&logo=linkedin&logoColor=F8ECDD&labelColor=B70412" alt="LinkedIn" /></a>
+        <a href="https://nothing0g.github.io/analyst/"><img src="https://img.shields.io/badge/Analyst_Portfolio-120B0B?style=for-the-badge&logo=github&logoColor=F8ECDD&labelColor=9E553C" alt="Analyst portfolio" /></a>
+        <a href="mailto:shubham1sure@gmail.com"><img src="https://img.shields.io/badge/Email-120B0B?style=for-the-badge&logo=gmail&logoColor=F8ECDD&labelColor=9E553C" alt="Email Shubham" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
-<img src="./assets/signal-line.svg" alt="Animated impact signal divider" width="100%" />
+<div align="center">
+  <img src="assets/mascot/mascot-coding.svg" width="175" alt="Mascot coding" />
+  <img src="assets/mascot/mascot-thinking.svg" width="175" alt="Mascot thinking" />
+  <img src="assets/mascot/mascot-celebrating.svg" width="175" alt="Mascot celebrating" />
+</div>
 
-## How I work
+---
+
+## `about_me.log`
+
+I’m an engineer moving into **data and business analysis**. I use **Python-driven analysis**, **product thinking**, and a little vibe coding to make unclear problems more useful. I care about the last mile: not just getting a model or notebook to run, but making the result clear enough to support a real decision.
+
+> **Vibe coding is my starting point. Standards are my filter.** I’m here to make useful things from messy inputs — not features looking for a problem.
 
 <table>
-<tr>
-<td width="33%" valign="top">
-<strong>Make it useful.</strong><br /><br />
-A project should help someone decide, build, understand, or move faster. Otherwise it is decoration.
-</td>
-<td width="33%" valign="top">
-<strong>Make it clear.</strong><br /><br />
-A model is not finished when it runs. It is finished when the result can survive outside the notebook.
-</td>
-<td width="33%" valign="top">
-<strong>Make it real.</strong><br /><br />
-Small, thoughtful tools beat ten disposable demos. I care about the last mile between insight and impact.
-</td>
-</tr>
+  <tr>
+    <td width="64%" valign="top">
+      <h3>What I am working around</h3>
+      <p>My public work is focused on applied analyst projects: operations demand, employee attrition, loan approval, and small Python builds. The newest public repository activity also includes a browser-first, GitHub Pages-ready static project.</p>
+    </td>
+    <td width="36%" align="center" valign="middle">
+      <img src="assets/mascot/mascot-thinking.svg" width="210" alt="Mascot thinking through an analysis" />
+    </td>
+  </tr>
 </table>
 
-## Tools I reach for
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,figma,vscode&theme=dark" alt="Python, MySQL, Git, GitHub, Figma, and Visual Studio Code" />
-</p>
+## `case_files/selected_work`
 
-`pandas` &nbsp; `scikit-learn` &nbsp; `Power BI` &nbsp; `Excel` &nbsp; `AutoCAD` &nbsp; `ANSYS` &nbsp; `SolidWorks`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/mascot/mascot-coding.svg" width="115" align="right" alt="Mascot coding" />
+      <h3>CF-001 · Uber demand</h3>
+      <p><a href="https://github.com/Nothing0g/Uber_ride_demand_analysis"><strong>Uber_ride_demand_analysis</strong></a></p>
+      <p>Operations and demand analysis across 150K Uber ride bookings, covering hourly demand patterns, cancellation diagnostics, and operational recommendations with Python, pandas, and matplotlib.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/mascot/mascot-thinking.svg" width="115" align="right" alt="Mascot thinking" />
+      <h3>CF-002 · People analytics</h3>
+      <p><a href="https://github.com/Nothing0g/hr_employee_attrition_analysis"><strong>hr_employee_attrition_analysis</strong></a></p>
+      <p>Exploratory analysis and classification modeling for employee attrition, paired with business recommendations and an evidence-backed Python workflow.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/mascot/mascot-celebrating.svg" width="115" align="right" alt="Mascot celebrating" />
+      <h3>CF-003 · Loan approval</h3>
+      <p><a href="https://github.com/Nothing0g/loan-approval-analysis"><strong>loan-approval-analysis</strong></a></p>
+      <p>A published Jupyter Notebook project for loan approval analysis.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/mascot/mascot-sleepy.svg" width="115" align="right" alt="Mascot taking a coffee break" />
+      <h3>CF-004 · Browser-first build</h3>
+      <p><a href="https://github.com/Nothing0g/the-uncomfortable-list"><strong>the-uncomfortable-list</strong></a></p>
+      <p>A recent React-tagged, local-only static project built for the browser and ready for GitHub Pages.</p>
+    </td>
+  </tr>
+</table>
 
-## Currently
+---
 
-Building analyst-track projects through a CrackNonTech fellowship. Previously: **Engineers India Ltd · DRDO-SSPL · NTPC Dadri**. Open to **Data Analyst** and **Business Analyst** roles where clear thinking matters as much as clean execution.
+## `stack.detected()`
 
-<p>
-  <img src="https://img.shields.io/badge/Dell_Aspire_Scholar_'23-282c34?style=flat&color=61afef" alt="Dell Aspire Scholar 2023" />
-  <img src="https://img.shields.io/badge/NCC_'A'_Certificate-282c34?style=flat&color=98c379" alt="NCC A Certificate" />
-  <img src="https://img.shields.io/badge/EIL_Internship_—_Excellent-282c34?style=flat&color=e5c07b" alt="Engineers India Limited internship rated excellent" />
-</p>
+These are the tools and technologies evidenced by public repository metadata and the selected projects above.
 
-## Let’s build something that matters
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-080708?style=for-the-badge&logo=python&logoColor=F8ECDD&labelColor=B70412" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-080708?style=for-the-badge&logo=pandas&logoColor=F8ECDD&labelColor=9E553C" alt="pandas" />
+  <img src="https://img.shields.io/badge/matplotlib-080708?style=for-the-badge&logo=python&logoColor=F8ECDD&labelColor=B70412" alt="matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-080708?style=for-the-badge&logo=scikitlearn&logoColor=F8ECDD&labelColor=9E553C" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-080708?style=for-the-badge&logo=jupyter&logoColor=F8ECDD&labelColor=B70412" alt="Jupyter Notebook" />
+  <br />
+  <img src="https://img.shields.io/badge/HTML-080708?style=for-the-badge&logo=html5&logoColor=F8ECDD&labelColor=9E553C" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-080708?style=for-the-badge&logo=css&logoColor=F8ECDD&labelColor=B70412" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-080708?style=for-the-badge&logo=javascript&logoColor=F8ECDD&labelColor=9E553C" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-080708?style=for-the-badge&logo=typescript&logoColor=F8ECDD&labelColor=B70412" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-080708?style=for-the-badge&logo=react&logoColor=F8ECDD&labelColor=9E553C" alt="React" />
+  <img src="https://img.shields.io/badge/Git_%2B_GitHub-080708?style=for-the-badge&logo=git&logoColor=F8ECDD&labelColor=B70412" alt="Git and GitHub" />
+</div>
 
-Have a messy problem, an interesting dataset, or a useful idea that needs shipping? **[Let’s talk.](mailto:shubham1sure@gmail.com)**
+---
 
-<p align="center">
-  <sub><code>case_status: investigating</code>&nbsp;&nbsp;·&nbsp;&nbsp;built with curiosity, evidence, and a suspicious amount of coffee.</sub>
-</p>
+## `public_signal`
+
+<div align="center">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Nothing0g&show_icons=true&hide_border=true&bg_color=080708&title_color=F8ECDD&icon_color=E56D3D&text_color=E9C9A2&ring_color=B70412&include_all_commits=true&count_private=false" alt="Nothing0g GitHub profile statistics" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nothing0g&bg_color=080708&color=F8ECDD&line=B70412&point=E56D3D&area=true&area_color=710A12&hide_border=true&radius=12" width="100%" alt="Nothing0g public contribution activity graph" />
+</div>
+
+---
+
+<table>
+  <tr>
+    <td width="72%" valign="middle">
+      <h2><code>currently_exploring</code></h2>
+      <p>I’m continuing analyst-track case work and experimenting with browser-first static builds. If you have a messy problem, an interesting dataset, or a useful idea that needs shipping, <a href="mailto:shubham1sure@gmail.com"><strong>let’s talk</strong></a>.</p>
+      <sub><code>status: curious · evidence-first · coffee-fueled</code></sub>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="assets/mascot/mascot-sleepy.svg" width="190" alt="Mascot with a coffee break" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <sub>Built around the original Nothing0g character — deep red, black, warm brown, and cream.</sub>
+</div>
