@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/mascot/header-banner.svg" width="100%" alt="Nothing0g deep-red mascot header" />
+  <img src="assets/mascot/header-banner.png" width="100%" alt="Nothing0g deep-red mascot header" />
   <h2><code>WELCOME TO THE LAB</code></h2>
   <p><strong>Turning messy inputs into useful work.</strong></p>
 </div>
@@ -25,9 +25,9 @@
 </table>
 
 <div align="center">
-  <img src="assets/mascot/mascot-coding.svg" width="175" alt="Mascot coding" />
-  <img src="assets/mascot/mascot-thinking.svg" width="175" alt="Mascot thinking" />
-  <img src="assets/mascot/mascot-celebrating.svg" width="175" alt="Mascot celebrating" />
+  <img src="assets/mascot/mascot-coding.png" width="175" alt="Mascot coding" />
+  <img src="assets/mascot/mascot-thinking.png" width="175" alt="Mascot thinking" />
+  <img src="assets/mascot/mascot-celebrating.png" width="175" alt="Mascot celebrating" />
 </div>
 
 ---
@@ -45,7 +45,7 @@ I’m an engineer moving into **data and business analysis**. I use **Python-dri
       <p>My public work is focused on applied analyst projects: operations demand, employee attrition, loan approval, and small Python builds. The newest public repository activity also includes a browser-first, GitHub Pages-ready static project.</p>
     </td>
     <td width="36%" align="center" valign="middle">
-      <img src="assets/mascot/mascot-thinking.svg" width="210" alt="Mascot thinking through an analysis" />
+      <img src="assets/mascot/mascot-thinking.png" width="210" alt="Mascot thinking through an analysis" />
     </td>
   </tr>
 </table>
@@ -57,13 +57,13 @@ I’m an engineer moving into **data and business analysis**. I use **Python-dri
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/mascot/mascot-coding.svg" width="115" align="right" alt="Mascot coding" />
+      <img src="assets/mascot/mascot-coding.png" width="115" align="right" alt="Mascot coding" />
       <h3>CF-001 · Uber demand</h3>
       <p><a href="https://github.com/Nothing0g/Uber_ride_demand_analysis"><strong>Uber_ride_demand_analysis</strong></a></p>
       <p>Operations and demand analysis across 150K Uber ride bookings, covering hourly demand patterns, cancellation diagnostics, and operational recommendations with Python, pandas, and matplotlib.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/mascot/mascot-thinking.svg" width="115" align="right" alt="Mascot thinking" />
+      <img src="assets/mascot/mascot-thinking.png" width="115" align="right" alt="Mascot thinking" />
       <h3>CF-002 · People analytics</h3>
       <p><a href="https://github.com/Nothing0g/hr_employee_attrition_analysis"><strong>hr_employee_attrition_analysis</strong></a></p>
       <p>Exploratory analysis and classification modeling for employee attrition, paired with business recommendations and an evidence-backed Python workflow.</p>
@@ -71,13 +71,13 @@ I’m an engineer moving into **data and business analysis**. I use **Python-dri
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/mascot/mascot-celebrating.svg" width="115" align="right" alt="Mascot celebrating" />
+      <img src="assets/mascot/mascot-celebrating.png" width="115" align="right" alt="Mascot celebrating" />
       <h3>CF-003 · Loan approval</h3>
       <p><a href="https://github.com/Nothing0g/loan-approval-analysis"><strong>loan-approval-analysis</strong></a></p>
       <p>A published Jupyter Notebook project for loan approval analysis.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/mascot/mascot-sleepy.svg" width="115" align="right" alt="Mascot taking a coffee break" />
+      <img src="assets/mascot/mascot-sleepy.png" width="115" align="right" alt="Mascot taking a coffee break" />
       <h3>CF-004 · Browser-first build</h3>
       <p><a href="https://github.com/Nothing0g/the-uncomfortable-list"><strong>the-uncomfortable-list</strong></a></p>
       <p>A recent React-tagged, local-only static project built for the browser and ready for GitHub Pages.</p>
@@ -128,7 +128,7 @@ These are the tools and technologies evidenced by public repository metadata and
       <sub><code>status: curious · evidence-first · coffee-fueled</code></sub>
     </td>
     <td width="28%" align="center" valign="middle">
-      <img src="assets/mascot/mascot-sleepy.svg" width="190" alt="Mascot with a coffee break" />
+      <img src="assets/mascot/mascot-sleepy.png" width="190" alt="Mascot with a coffee break" />
     </td>
   </tr>
 </table>
