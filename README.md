@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/mascot/header-coding-action.png" width="100%" alt="Deep-red focused-coding character header" />
+  <img src="assets/mascot/header-coding-action.gif" width="100%" alt="Deep-red focused-coding character header with a subtle background signal animation" />
   <h2><code>WELCOME TO THE LAB</code></h2>
   <p><strong>Turning messy inputs into useful work.</strong></p>
   <img src="assets/mascot/motion-rail.gif" width="94%" alt="Slowly animated lab workflow: observe, analyze, ship" />
@@ -55,6 +55,10 @@ I’m an engineer moving into **data and business analysis**. I use **Python-dri
 
 ## `case_files/selected_work`
 
+<div align="center">
+  <img src="assets/mascot/case-stream.gif" width="94%" alt="A subtle animated signal moving through the case-file workflow" />
+</div>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -105,6 +109,10 @@ These are the tools and technologies evidenced by public repository metadata and
   <img src="https://img.shields.io/badge/TypeScript-080708?style=for-the-badge&logo=typescript&logoColor=F8ECDD&labelColor=B70412" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-080708?style=for-the-badge&logo=react&logoColor=F8ECDD&labelColor=9E553C" alt="React" />
   <img src="https://img.shields.io/badge/Git_%2B_GitHub-080708?style=for-the-badge&logo=git&logoColor=F8ECDD&labelColor=B70412" alt="Git and GitHub" />
+</div>
+
+<div align="center">
+  <img src="assets/mascot/stack-pulse.gif" width="94%" alt="A subtle animated pulse connecting the detected technology stack" />
 </div>
 
 ---
