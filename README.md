@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="31%" align="center" valign="middle">
-      <img src="assets/mascot/profile-ring.svg" width="210" alt="Nothing0g character portrait" />
+      <img src="assets/mascot/profile-circle.png" width="210" alt="Nothing0g character portrait" />
     </td>
     <td width="69%" valign="middle">
       <h1>Shubham Kumar <sub><code>Nothing0g</code></sub></h1>
