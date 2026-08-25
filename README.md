@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/mascot/header-continuous.gif" width="100%" alt="Animated deep-red character-and-laptop studio header" />
+  <img src="assets/mascot/header-coding-action.png" width="100%" alt="Deep-red focused-coding character header" />
   <h2><code>WELCOME TO THE LAB</code></h2>
   <p><strong>Turning messy inputs into useful work.</strong></p>
   <img src="assets/mascot/motion-rail.gif" width="94%" alt="Slowly animated lab workflow: observe, analyze, ship" />
