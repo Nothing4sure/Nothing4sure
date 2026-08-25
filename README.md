@@ -112,11 +112,9 @@ These are the tools and technologies evidenced by public repository metadata and
 ## `public_signal`
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Nothing0g&show_icons=true&hide_border=true&bg_color=080708&title_color=F8ECDD&icon_color=E56D3D&text_color=E9C9A2&ring_color=B70412&include_all_commits=true&count_private=false" alt="Nothing0g GitHub profile statistics" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nothing0g&bg_color=080708&color=F8ECDD&line=B70412&point=E56D3D&area=true&area_color=710A12&hide_border=true&radius=12" width="100%" alt="Nothing0g public contribution activity graph" />
+  <a href="https://github.com/Nothing0g"><img src="assets/mascot/public-signal.png" width="100%" alt="Nothing0g public GitHub signal snapshot: 144 public contributions in the last year, 17 public repositories, zero followers, and zero following" /></a>
+  <br />
+  <sub>Local public-data snapshot · <a href="https://github.com/Nothing0g">view the live GitHub contribution history</a></sub>
 </div>
 
 ---
