@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.2
+torch>=2.2
+transformers>=4.44
+scikit-learn>=1.5
+yfinance>=0.2.54
